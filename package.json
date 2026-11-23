@@ -1,6 +1,6 @@
 {
   "name": "tiny-minkowski-distance-metric",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Calculates Minkowski distance for any finite p at least 1 between numeric vectors.",
   "type": "module",
   "main": "src/index.js",
